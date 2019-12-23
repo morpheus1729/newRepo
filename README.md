@@ -1,2 +1,0 @@
-# newRepo
-Created with CodeSandbox
