@@ -1,3 +1,9 @@
-body {
-  font-family: sans-serif;
+ul {
+  color: blue;
+}
+li {
+  color: red;
+}
+.home {
+  color: inherit;
 }
